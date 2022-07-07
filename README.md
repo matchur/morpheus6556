@@ -3,9 +3,9 @@
 <h4> Espiando um pouquinho né, haha seja bem-vindo 😁 </h4>
 
 
-<h3> Git's Status </h3>
+<h3> Informações sobre o Github </h3>
 <div align="center">
-  <a href="https://github.com/jeanmmiguel">
+  <a href="https://github.com/morpheus6556">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanmmiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmmiguel&layout=compact&langs_count=7&theme=dark"/>
 </div>
